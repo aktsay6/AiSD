@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rat91/CLionProjects/Johnson's algorithm/Edge.h
+string
+-
+
+C:/Users/rat91/CLionProjects/Johnson's algorithm/ReadWriter.h
+Edge.h
+C:/Users/rat91/CLionProjects/Johnson's algorithm/Edge.h
+iostream
+-
+fstream
+-
+vector
+-
+
+C:/Users/rat91/CLionProjects/Johnson's algorithm/main.cpp
+ReadWriter.h
+C:/Users/rat91/CLionProjects/Johnson's algorithm/ReadWriter.h
+
