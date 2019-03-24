@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/rat91/CLionProjects/Johnson's algorithm/main.cpp" "C:/Users/rat91/CLionProjects/Johnson's algorithm/cmake-build-debug/CMakeFiles/Johnson.dir/main.cpp.obj"
+  "C:/Users/rat91/CLionProjects/Johnson's algorythm/main.cpp" "C:/Users/rat91/CLionProjects/Johnson's algorythm/cmake-build-debug/CMakeFiles/Johnson.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

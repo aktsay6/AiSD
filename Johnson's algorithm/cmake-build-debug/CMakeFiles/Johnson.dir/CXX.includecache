@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/rat91/CLionProjects/Johnson's algorithm/Edge.h
+C:/Users/rat91/CLionProjects/Johnson's algorythm/Edge.h
 string
 -
 
-C:/Users/rat91/CLionProjects/Johnson's algorithm/ReadWriter.h
+C:/Users/rat91/CLionProjects/Johnson's algorythm/ReadWriter.h
 Edge.h
-C:/Users/rat91/CLionProjects/Johnson's algorithm/Edge.h
+C:/Users/rat91/CLionProjects/Johnson's algorythm/Edge.h
 iostream
 -
 fstream
@@ -20,7 +20,9 @@ fstream
 vector
 -
 
-C:/Users/rat91/CLionProjects/Johnson's algorithm/main.cpp
+C:/Users/rat91/CLionProjects/Johnson's algorythm/main.cpp
+queue
+-
 ReadWriter.h
-C:/Users/rat91/CLionProjects/Johnson's algorithm/ReadWriter.h
+C:/Users/rat91/CLionProjects/Johnson's algorythm/ReadWriter.h
 
